@@ -63,3 +63,11 @@ See requirements.txt for dependencies.
 1. Run the analysis notebook first to understand data patterns
 2. Run the model training notebook to train and evaluate regression models
 3. The cleaned dataset is ready for custom analysis or model development
+
+
+### What I learned
+
+1. ML Project Lifecycle
+2. How to clean data and do EDA, Feature Engineering
+3. Different regression algorithms and hyperparameter-tuning.
+4. Pickling ML model
